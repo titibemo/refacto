@@ -1,0 +1,32 @@
+{
+  "popular": [
+    {
+      "title" : "Avatar 3",
+      "image" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7l8e9J8O65BaL4ZspreSkIwndtNFO_X1NP23PUP0BK0JQdcgL",
+      "rank" : 2,
+      "id": 0
+    },
+    {
+      "title" : "28 Years Later",
+      "image" : "https://m.media-amazon.com/images/M/MV5BYjMyZjkyNmQtYzNjYi00NTc4LWFhN2EtMDQ2OTczNmQ5ZDk1XkEyXkFqcGc@._V1_.jpg",
+      "rank" : 2,
+      "id": 1
+    },
+    {
+      "title" : "Nosferatu",
+      "image" : "https://www.atticawebzine.com/wp-content/uploads/2024/06/r-eggers_nosferatu_2024_500.jpg",
+      "rank" : 2,
+      "id": 2
+    },    {
+      "title" : "Mickey 17",
+      "image" : "https://media.senscritique.com/media/000021245403/0/mickey_17.jpg",
+      "rank" : 2,
+      "id": 3
+    },    {
+      "title" : "Kanguva",
+      "image" : "https://m.media-amazon.com/images/M/MV5BMzBiZDAxY2EtNDc0NS00Y2E0LTk1MGQtODU3MzRmOTVlOTk3XkEyXkFqcGc@._V1_.jpg",
+      "rank" : 2,
+      "id": 4
+    }
+  ]
+}

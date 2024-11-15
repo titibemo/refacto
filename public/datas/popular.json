@@ -1,0 +1,32 @@
+{
+  "popular": [
+    {
+      "title" : "Venom: The last dance",
+      "image" : "https://posters.movieposterdb.com/24_06/2024/16366836/l_venom-the-last-dance-movie-poster_a982082b.jpg",
+      "rank" : 2,
+      "id": 0
+    },
+    {
+      "title" : "The Wild Robot",
+      "image" : "https://posters.movieposterdb.com/24_08/2024/29623480/l_the-wild-robot-movie-poster_7e1b9c37.jpg",
+      "rank" : 2,
+      "id": 1
+    },
+    {
+      "title" : "Smile 2",
+      "image" : "https://posters.movieposterdb.com/24_06/2024/29268110/l_smile-deluxe-movie-poster_85506969.png",
+      "rank" : 2,
+      "id": 2
+    },    {
+      "title" : "Terrifier 3",
+      "image" : "https://posters.movieposterdb.com/24_11/2024/27911000/l_terrifier-3-movie-poster_2b5e1ae0.jpg",
+      "rank" : 2,
+      "id": 3
+    },    {
+      "title" : "Heretic",
+      "image" : "https://posters.movieposterdb.com/24_09/2024/28015403/l_heretic-movie-poster_5aebf7ad.jpg",
+      "rank" : 2,
+      "id": 4
+    }
+  ]
+}

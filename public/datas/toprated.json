@@ -1,0 +1,44 @@
+{
+  "popular": [
+    {
+      "title" : "The Substance",
+      "image" : "https://posters.movieposterdb.com/24_08/2024/17526714/l_the-substance-movie-poster_1dbeba64.jpg",
+      "rank" : 5,
+      "director": "Coralie Fargeat",
+      "country": "France",
+      "id": 0
+    },
+    {
+      "title" : "Anora",
+      "image" : "https://posters.movieposterdb.com/24_08/2024/28607951/l_anora-movie-poster_d319c94a.jpg",
+      "rank" : 4.5,
+      "director": "Sean Barker",
+      "country": "USA",
+      "id": 1
+    },
+    {
+      "title" : "Alien: Romulus",
+      "image" : "https://posters.movieposterdb.com/24_06/2024/18412256/l_alien-romulus-movie-poster_bce598ef.jpg",
+      "rank" : 4,
+      "director": "Fede Alvarez",
+      "country": "USA",
+      "id": 2
+    },
+    {
+      "title" : "Conclave",
+      "image" : "https://posters.movieposterdb.com/24_10/0/20215234/l_conclave-movie-poster_d7d40474.jpg",
+      "rank" : 4,
+      "director": "Edward Berger",
+      "country": "USA",
+      "id": 3
+    },
+    {
+      "title" : "Here",
+      "image" : "https://posters.movieposterdb.com/24_10/2024/18272208/l_here-movie-poster_fca73782.jpg",
+      "rank" : 3.5,
+      "director": "Robert Zemeckis",
+      "country": "USA",
+      "id": 4
+    }
+  ]
+}
